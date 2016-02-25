@@ -1,2 +1,5 @@
 # hep-python
-:page_with_curl: HEP: Python implementation of HEP/EEP Encapsulation Protocol
+
+HEP: Python implementation of [HEP/EEP](http://hep.sipcapture.org) Encapsulation Protocol
+
+Courtesy of [Asterisk/Digium HEP Tests Suite](https://github.com/asterisk/testsuite/tree/master/tests/hep)
